@@ -2,6 +2,8 @@
 
 The project aims to be a one stop solution for specially abled individuals as aims to teach sign language via utility of deep learning and computer vision.
 
+###### The Live link of the Webapp: http://eu2jn2uaulfon0mfjjtbedmd0c.ingress.nmfakash.uk/
+
 ## Languages and Tools
 
 <div align="">
@@ -25,6 +27,9 @@ The project aims to be a one stop solution for specially abled individuals as ai
 - Database: MongoDB
 - Frontend: NEXT.js, React, TailwindCSS, Javascript
 - Tools: Azure cloud, git, Docker, jupyter notebooks
+  
+![Sakshamsystemdesign](https://github.com/Chaitanyarai899/Saksham-Web/assets/95732261/c6760f7a-48bb-4a60-a725-67dc1c0d8233)
+
 
 ## Getting Started
 
@@ -82,5 +87,4 @@ Feel free to contribute to the project. Fork the repository, make your changes, 
 ![image](https://github.com/Chaitanyarai899/Saksham-Web/assets/95732261/33770e70-4bd0-46b1-87f7-1de0cefd74e6)
 ![image](https://github.com/Chaitanyarai899/Saksham-Web/assets/95732261/964ab8f6-48c5-4350-b8b2-4a60d1a08feb)
 ![image](https://github.com/Chaitanyarai899/Saksham-Web/assets/95732261/a34fcd8a-17f7-49a2-a3a1-0025f8408745)
-
 
